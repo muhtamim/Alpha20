@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="muhtamimfuwadnahid.example.com.doctorappdrug_directory">
+
+    <application
+        android:name=".Drug_directory"
+        android:allowBackup="true"
+        android:icon="@drawable/drug_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/drug_icon"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat">
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".SplashActivity"
+            android:noHistory="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".DetailsActivity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".HomeActivity"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".AboutActivity" />
+        <activity android:name=".ContactActivity"></activity>
+    </application>
+
+</manifest>

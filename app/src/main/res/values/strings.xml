@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Drug directory</string>
+    <string name="intro">Hi i am your smart drug directory"\n"I can help you finding your urgent drug information</string>
+    <string name="okayButton">Okay</string>
+    <string name="meet">Have we met before?</string>
+    <string name="yes">Yes</string>
+    <string name="No">No,not yet</string>
+    <string name="Greetings">Nice to meet you</string>
+    <string name="tap">You can always change you answer latter if you want to </string>
+    <string name="getStarted">Okay,lets get started with your email address</string>
+    <string name="emailHint">Type your email address</string>
+    <string name="done">Done</string>
+    <string name="choosePass">Please choose a strong password to keep your data safe</string>
+    <string name="passHint">Type a password</string>
+    <string name="signUpFinishing">Your sign up process has been almost done</string>
+    <string name="showTermsAndCond">Show terms and Conditions</string>
+    <string name="accept">I have read the terms and conditions"\n"And I accept it</string>
+    <string name="signUp">Sign up now</string>
+    <string name="close">Close</string>
+    <string name="open">Open</string>
+    <string-array name="query">
+        <item>Furniture</item>
+        <item>Real estate</item>
+        <item>Services</item>
+        <item>Pet care</item>
+    </string-array>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">Drug directory part of care Connect You can view different drugs along with details.You can search by generic names and trade names.You can calculate drugs dosage also.And lastly, this app has favourite options also to store your favourite drugs\n</string>
+    <string name="contact">Developed by:\n"\n"Muhtamim Fuwad Nahid"\n"LU CSE 41st"\n"Email:muhtamim.lu@gmail.com\n"
+    "\n"Rafat Ullah"\n"LU CSE 41st"\n"Email:rafatullah.lucse@gmail.com"\n
+    "\n"SD Nath"\n"LU CSE 41st"\n"Email:sd.lu@gmail.com"\n
+                  Final Year Project In LU
+    </string>
+
+</resources>

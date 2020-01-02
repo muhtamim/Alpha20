@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "139222690417",
+    "firebase_url": "https://doctorappdrugdirectory.firebaseio.com",
+    "project_id": "doctorappdrugdirectory",
+    "storage_bucket": "doctorappdrugdirectory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139222690417:android:019cc6aecb5cbfa00c09d0",
+        "android_client_info": {
+          "package_name": "muhtamimfuwadnahid.example.com.doctorappdrug_directory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139222690417-q4uqn49v8illhnl1b9lcf0afhivb6kri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "muhtamimfuwadnahid.example.com.doctorappdrug_directory",
+            "certificate_hash": "5d270a308e5f0964929fcf8136b4d63d256f25dd"
+          }
+        },
+        {
+          "client_id": "139222690417-ura2iuj1jga5d2jlgpv73fitdbnotp25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChyFbQZWfBP6RJOnD81A2piB7qfvsM4SM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139222690417-ura2iuj1jga5d2jlgpv73fitdbnotp25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
