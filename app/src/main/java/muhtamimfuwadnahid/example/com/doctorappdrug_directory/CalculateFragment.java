@@ -1,6 +1,5 @@
 package muhtamimfuwadnahid.example.com.doctorappdrug_directory;
 
-
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.text.Editable;
